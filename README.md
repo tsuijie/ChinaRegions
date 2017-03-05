@@ -1,0 +1,2 @@
+# ChinaRegions
+解析中华人民共和国国家统计局设管司最新县及县以上行政区划代码为Javascript和Sql脚本
