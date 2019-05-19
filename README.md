@@ -24,7 +24,7 @@
 
 ### 编译和更新
 
-* 从[国家统计局官网](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/)下载最新的行政区规划文本
+* 从[国家统计局官网](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/)下载最新的行政区规划文本
 * 覆盖文本到``` txt/latest.txt ```
 * 进入``` runner ```文件夹，在PHP环境下执行 ``` php index.php ```
 
